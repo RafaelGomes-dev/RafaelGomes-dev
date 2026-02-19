@@ -43,16 +43,7 @@
 - Sistemas e Infraestrutura  
 - Sistemas Ciberfísicos  
 
----
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelGomes-dev&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGomes-dev&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📌 Projetos em Destaque
 
@@ -71,8 +62,8 @@
 
 ## 📫 Contato
 
-💼 LinkedIn: (coloque seu link)  
-📧 Email: (coloque seu email)  
+💼 LinkedIn: (https://www.linkedin.com/in/rafael-gomes-1b91a6280/)  
+📧 Email: (rafinhagomes1231@gmail.com)  
 
 ---
 

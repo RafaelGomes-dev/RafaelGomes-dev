@@ -52,7 +52,7 @@
 
 ## Projetos em Destaque
 
-Adicionando novos projetos em breve — fique ligado 🚀  
+Adicionando novos projetos em breve — fique ligado 
 
 ---
 

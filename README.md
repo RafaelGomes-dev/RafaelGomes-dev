@@ -3,7 +3,7 @@
 <p align="center">
  Estudante de Ciência da Computação na PUCPR (4º semestre)<br>
  Estagiário na Positivo Tecnologia<br>
- Apaixonado por tecnologia, desenvolvimento de software e automação
+ Apaixonado por tecnologia!
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 - Cursando Ciência da Computação na PUCPR  
 - Atualmente estagiário na Positivo Tecnologia  
-- Focado em desenvolvimento backend e soluções reais  
+- Focado em sempre aprender mais, aptidão a programação WEB
 - Sempre aberto a novas oportunidades, projetos e colaborações  
 
 ---
@@ -52,18 +52,10 @@
 
 ## Projetos em Destaque
 
-Adicionando novos projetos em breve — fique ligado 
+Gestão de Gastos — (https://controle-gastos-74h4.onrender.com/) 
 
 ---
 
-## Atualmente estudando
-
-- Estruturas de Dados e Algoritmos  
-- Desenvolvimento Backend  
-- Arquitetura de Software  
-- Bancos de Dados Avançados  
-
----
 
 ## Contato
 

@@ -12,7 +12,6 @@
 
 - Cursando Ciência da Computação na PUCPR  
 - Atualmente estagiário na Positivo Tecnologia  
-- Focado em desenvolvimento backend e soluções reais  
 - Sempre aberto a novas oportunidades, projetos e colaborações  
 
 ---
@@ -58,10 +57,13 @@ Adicionando novos projetos em breve — fique ligado
 
 ## Atualmente estudando
 
-- Estruturas de Dados e Algoritmos  
-- Desenvolvimento Backend  
-- Arquitetura de Software  
-- Bancos de Dados Avançados  
+- Big Data
+- Modelagem de Sistemas Computacionais
+- Programação Lógica e Funcional 
+- Redes Convergentes
+- Resolução de Problemas Estruturados em Computação
+- Sistemas Operacionais Ciberfísicos
+- 
 
 ---
 

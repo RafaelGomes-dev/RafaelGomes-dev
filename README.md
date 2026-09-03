@@ -57,14 +57,12 @@ Adicionando novos projetos em breve — fique ligado
 
 ## Atualmente estudando
 
-- Big Data
-- Modelagem de Sistemas Computacionais
-- Programação Lógica e Funcional 
-- Redes Convergentes
-- Resolução de Problemas Estruturados em Computação
-- Sistemas Operacionais Ciberfísicos
-- 
-
+- Complexidade de Algoritmos
+- Experiência Criativa: Inovando Colaborativamente
+- Métodos De Pesquisa Científica
+- Métodos Quantitativos para Computação
+- Resolução de Problemas com Grafos
+  
 ---
 
 ## Contato
